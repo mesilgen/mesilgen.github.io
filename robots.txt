@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mesilgen.github.io/sitemap.html.gz
+Sitemap: https://mesilgen.github.io/app/sitemap.html.gz
+Sitemap: https://mesilgen.github.io/assets/sitemap.html.gz
+Sitemap: https://mesilgen.github.io/css/sitemap.html.gz
+Sitemap: https://mesilgen.github.io/includes/sitemap.html.gz
+Sitemap: https://mesilgen.github.io/item/sitemap.html.gz
+Sitemap: https://mesilgen.github.io/src/sitemap.html.gz
